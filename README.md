@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.17672840.svg)](https://doi.org/10.5281/zenodo.17672840)
+
 # ΔN–ΔD Model: Reproducible Simulation Code
 
 This repository contains the complete reproducible implementation of the **ΔN–ΔD Duality–Non-Equilibrium Model**, including all five simulations described in the manuscript.
@@ -67,3 +69,4 @@ Kazakhstan, 2025
 ---
 
 A Zenodo DOI will be added after the initial release.
+
